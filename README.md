@@ -2,6 +2,8 @@
 
 This project involves CloudSQL, CloudStorage, and Dataproc
 
+(Please, reading the first csv file:  Recommendation_Rentals_Houses for all details)
+
 Set up your environments
 
 Task 1. Create a Cloud SQL instance
