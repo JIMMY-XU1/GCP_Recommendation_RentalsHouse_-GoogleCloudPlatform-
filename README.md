@@ -1,6 +1,6 @@
 # GCP_Recommendation_RentalsHouse_-GoogleCloudPlatform-
 This project involves CloudSQL, CloudStorage, and Dataproc
-Set up your environments
+ \n Set up your environments
 Task 1. Create a Cloud SQL instance
 Task 2. Create tables
 Task 3. Stage data in Cloud Storage
