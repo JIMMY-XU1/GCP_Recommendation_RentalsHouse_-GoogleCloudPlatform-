@@ -22,4 +22,7 @@ Task 8. Run your ML job on Dataproc
 
 Task 9. Explore inserted rows with SQL
 
+The result:
+
+
 ![图片](https://user-images.githubusercontent.com/71955877/156537912-4bec385c-33b6-441c-82d2-abb1f284a778.png)
